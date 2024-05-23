@@ -4,12 +4,10 @@ This collection showcases various Bluetooth-related projects implemented using t
 Projects Overview
 
 1. L2CAP Client and Server
-Files: i2cap-client.c, i2cap-server.c
 
-3. RFCOMM Client and Server
-Files: rfcomm-client.c, rfcomm-server.c
+2. RFCOMM Client and Server
 
-4. Sample Bluetooth Scanner
+3. Sample Bluetooth Scanner
 
 
 
