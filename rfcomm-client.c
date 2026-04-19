@@ -4,6 +4,7 @@
 #include <bluetooth/bluetooth.h>
 #include <bluetooth/rfcomm.h>
 
+
 int main(int argc, char **argv)
 {
     struct sockaddr_rc addr = { 0 };
