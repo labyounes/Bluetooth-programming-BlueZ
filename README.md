@@ -1,5 +1,4 @@
 # Bluetooth programming with BlueZ
-## Bluez stack
 
 This collection showcases various Bluetooth-related projects implemented using the Bluez stack. The primary aim is to provide examples and a reference for developers working with Bluetooth on Linux systems. The repository includes three main projects, each demonstrating different aspects of Bluetooth communication:
 
